@@ -1,5 +1,5 @@
 # 100DaysOfCode
-## Day001:March 1th
+## Day001:March 11th
 ### Today's progress : 
 #### I started on the introduction to Python. I Learnt about the Python input function, the python variables and naming the variables
 ### Thoughts
