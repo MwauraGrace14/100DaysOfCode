@@ -5,3 +5,13 @@
 ### Thoughts
 #### I've realised that for me , Using Replit while coding in Python is a bit friendly compared to using VS code. I purpose to practise coding in Python on both Replit and VS code
 ### Link - https://github.com/MwauraGrace14/Variables.py.git
+
+
+
+# # 100DaysOfCode
+## Day002:March 12th
+### Today's progress: 
+#### Today I learnt about the various data-types in python, how to manipulate strings and how to do various mathematical operations in python.
+### Thoughts:
+#### Understanding the core datatypes in python lays a solid foundation for programming in python and now every line of code you work with automatically makes more sense.
+### Link - 
