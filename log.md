@@ -16,3 +16,12 @@
 ### Thoughts:
 #### Understanding the core datatypes in python lays a solid foundation for programming in python and now every line of code you work with automatically makes more sense.
 ### Link - https://github.com/MwauraGrace14/Datatypes.py.git
+
+
+## Day003:March 13th
+### Today's progress: 
+#### Today I learnt about the control flow including the If/else, nested if and also implementing multiple if statements. 
+#### I generated various codes eg one that calculate one's Body Mass Index(BMI)
+### Thoughts:
+#### It's getting more interesting!
+### Link - 
