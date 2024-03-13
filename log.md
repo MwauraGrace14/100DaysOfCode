@@ -21,7 +21,7 @@
 ## Day003:March 13th
 ### Today's progress: 
 #### Today I learnt about the control flow including the If/else, nested if and also implementing multiple if statements. 
-#### I generated various codes eg one that calculate one's Body Mass Index(BMI)
+#### I generated various codes eg one that calculate one's Body Mass Index(BMI) and outputs the BMI and gives an interpretation of their BMI.
 ### Thoughts:
 #### It's getting more interesting!
 ### Link - https://github.com/MwauraGrace14/Controlflow.py.git
