@@ -25,3 +25,12 @@
 ### Thoughts:
 #### It's getting more interesting!
 ### Link - https://github.com/MwauraGrace14/Controlflow.py.git
+
+## Day004:March 14th
+### Today's progress: 
+#### Today I learnt about the logical operators and,or,not and how to implement them. 
+#### Remember the love calculator game we used to play in highschool?😆I decided to create that game today.
+#### I also came up with a treasure island game to find a hidden gem. Interesting,right?😂
+### Thoughts:
+#### At least i got to interact with an ASCII ART for the very first time.("Hidden gem in coding😉")
+### Link -  https://github.com/MwauraGrace14/Logicaloperators.py.git
