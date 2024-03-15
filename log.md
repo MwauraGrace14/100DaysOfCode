@@ -34,3 +34,12 @@
 ### Thoughts:
 #### At least i got to interact with an ASCII ART for the very first time.("Hidden gem in coding😉")
 ### Link -  https://github.com/MwauraGrace14/Logicaloperators.py.git
+
+## Day005:March 15th
+### Today's progress:
+#### I learnt about randomisation including the random module and python lists.
+#### I also learnt about index errors and how to correct them in python.
+### Thoughts:
+#### So far so good!
+#### 
+### link to work - https://github.com/MwauraGrace14/Randomisation.py.git
