@@ -44,3 +44,18 @@
 #### 
 ### link to work - https://github.com/MwauraGrace14/Randomisation.py.git
 
+## Day 006:March 16th
+### Today's progress:
+#### I used the knowledge previously learnt from Day 005 to create a game involving a treasure box.
+### Thoughts:
+#### Interesting,right??😂
+### Link to work - https://github.com/MwauraGrace14/Lists.py.git
+
+## Day 007:March 17th
+### Today's progress
+#### I learnt about the for loop and how to implement the range() function in python.
+### Thoughts:
+#### If only Bart Simpson on that one episode of the Simpsons knew how to use the FOR loop, then it would have been easy for him to do his punishment instead of writing the same statement over and over again😂😂.
+### Link to work - https://github.com/MwauraGrace14/Lists.py.git
+
+
