@@ -58,4 +58,11 @@
 #### If only Bart Simpson on that one episode of the Simpsons knew how to use the FOR loop, then it would have been easy for him to do his punishment instead of writing the same statement over and over again😂😂.
 ### Link to work - https://github.com/MwauraGrace14/Lists.py.git
 
+## Day 008:March 18th
+### Today's progress
+#### Today I generated two codes using the concept of the FOR loop and Python lists: One is a rock,paper,scissors game and the the other code auto generates a password using inputs given by the user.
+### Thoughts
+#### Might as well end up coming up with my own games in this journey😂.
+### Link to work - https://github.com/MwauraGrace14/Day-8.py.git
+
 
