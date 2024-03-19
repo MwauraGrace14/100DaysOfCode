@@ -59,10 +59,18 @@
 ### Link to work - https://github.com/MwauraGrace14/Lists.py.git
 
 ## Day 008:March 18th
-### Today's progress
+### Today's progress:
 #### Today I generated two codes using the concept of the FOR loop and Python lists: One is a rock,paper,scissors game and the the other code auto generates a password using inputs given by the user.
 ### Thoughts
 #### Might as well end up coming up with my own games in this journey😂.
 ### Link to work - https://github.com/MwauraGrace14/Day-8.py.git
+
+## Day 009:March 19th
+### Today's progress:
+#### I learnt how to define and call python functions and also indentation as a necessity in python.
+#### I also interacted with the Reeborg's world, for the very first time and I got to play the Hurdles Loop challenge in Python.
+### Thoughts:
+#### After implementing function calls and definitions: "Of course we are programmers, we love to be lazy"😅
+### Link to work - https://github.com/MwauraGrace14/Day-9---Python-functions.git
 
 
