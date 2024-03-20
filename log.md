@@ -75,7 +75,7 @@
 
 ## Day 010:March 20th
 ### Today's progress:
-#### I learnt about the while loop and how it operates. I still used the Reebog's world to practise on the while loop.
+#### I learnt about the while loop and how it operates. I still used the Reeborg's world site to practise on the while loop.
 ### Thoughts:
 #### I'm loving the progress.
 
