@@ -73,4 +73,10 @@
 #### After implementing function calls and definitions: "Of course we are programmers, we love to be lazy"😅
 ### Link to work - https://github.com/MwauraGrace14/Day-9---Python-functions.git
 
+## Day 010:March 20th
+### Today's progress:
+#### I learnt about the while loop and how it operates. I still used the Reebog's world to practise on the while loop.
+### Thoughts:
+#### I'm loving the progress.
+
 
