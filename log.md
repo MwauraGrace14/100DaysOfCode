@@ -94,3 +94,12 @@
 ### Link to work - 
 #### I updated the game i created on Day 011 
 #### https://github.com/MwauraGrace14/Day10.py.git
+
+## Day 013: March 24th
+### Today's progress:
+#### I've advanced my knowledge on functions.I've learnt how to use functions with inputs in python.
+#### I've also learnt about the positional and keyword arguments.
+### Thoughts
+#### Parameters and arguments can really be confusing while differentiating them.
+### Link to work 
+#### https://github.com/MwauraGrace14/Day-11---Functions.py.git
