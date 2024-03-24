@@ -79,11 +79,18 @@
 ### Thoughts:
 #### I'm loving the progress.
 
-## Day 019: March 21st
+## Day 011: March 21st
 ### Today's progress
 #### Ever heard of the hangman game??.That's what i decided to work on today using all the concepts i've learnt in python so far.
 ### Thoughts:
 #### Would definitely love being involved in coming up with games kids can interact with.They are so fun!
 ### Link to work - https://github.com/MwauraGrace14/Day10.py.git
 
-
+## Day 012 : March 22nd
+### Today's progress:
+#### I learnt how to improve the user experience on my game by implementing the ASCII art to improve the UI on my games
+### Thoughts
+#### Everyday is a learning day!
+### Link to work - 
+#### I updated the game i created on Day 011 
+#### https://github.com/MwauraGrace14/Day10.py.git
