@@ -103,3 +103,9 @@
 #### Parameters and arguments can really be confusing while differentiating them.
 ### Link to work 
 #### https://github.com/MwauraGrace14/Day-11---Functions.py.git
+
+## Day 014: March 25th
+### Today's progress
+#### I learnt about dictionaries and how you can nest lists and dictionaries.
+### Link to work
+#### https://github.com/MwauraGrace14/Day14-Dictionaries.py.git
