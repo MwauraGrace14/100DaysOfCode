@@ -109,3 +109,13 @@
 #### I learnt about dictionaries and how you can nest lists and dictionaries.
 ### Link to work
 #### https://github.com/MwauraGrace14/Day14-Dictionaries.py.git
+
+## Day 015: March 30th
+### Today's progress
+#### I learnt how to use functions with outputs and also how to use multiple return values.
+#### I integrated dictionaries and functions in my calculator app.
+#### I can now differentiate how the return and print functions operate.
+### Thoughts
+#### You can actually manipulate a computer to literally do what you want. I mean, I never knew I can write some documentations for the functions i've created using docstrings in python.😅
+### Link to work
+#### https://github.com/MwauraGrace14/Day15-functions3.py.git
