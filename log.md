@@ -116,6 +116,6 @@
 #### I integrated dictionaries and functions in my calculator app.
 #### I can now differentiate how the return and print functions operate.
 ### Thoughts
-#### You can actually manipulate a computer to literally do what you want. I mean, I never knew I can write some documentations for the functions i've created using docstrings in python.😅
+#### You can actually manipulate a computer to literally do what you want. I mean, I never knew I can write some documentations for the functions i've created, using docstrings in python.😅
 ### Link to work
 #### https://github.com/MwauraGrace14/Day15-functions3.py.git
