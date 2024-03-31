@@ -119,3 +119,11 @@
 #### You can actually manipulate a computer to literally do what you want. I mean, I never knew I can write some documentations for the functions i've created, using docstrings in python.😅
 ### Link to work
 #### https://github.com/MwauraGrace14/Day15-functions3.py.git
+
+## Day 016: March 31st
+### Today's progress:
+#### I wrote a code that plays the Caesar Cipher game where you get to encode and decode a certain text with some hidden meaning.
+### Thoughts:
+#### Interesting,right?😅
+### Link to work
+#### https://github.com/MwauraGrace14/Day16.py.git
