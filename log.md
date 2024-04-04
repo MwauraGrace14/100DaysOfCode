@@ -127,3 +127,9 @@
 #### Interesting,right?😅
 ### Link to work
 #### https://github.com/MwauraGrace14/Day16.py.git
+
+## Day 017:April 1st
+### Today's progress
+#### Decided to go through what I've learnt so far and also the mini projects i have so farr.
+### Thoughts
+#### After learning a new skill I really need to use it often, to be able to understand it well and do a deeper research on it.
