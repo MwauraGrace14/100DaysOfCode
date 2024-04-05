@@ -148,3 +148,8 @@
 ### Thoughts:
 #### If you create a variable within a function it is only available within that function.
 #### If you create a variable within any loop ie for ,while or if loop, it doesn't count as local screep.
+
+## Day 020: April 4th
+### Today's progress:
+#### I've learnt how to modify a global variable and how to implement python constants in a global scope.
+
