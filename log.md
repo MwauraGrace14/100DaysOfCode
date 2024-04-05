@@ -133,3 +133,18 @@
 #### Decided to go through what I've learnt so far and also the mini projects i have so farr.
 ### Thoughts
 #### After learning a new skill I really need to use it often, to be able to understand it well and do a deeper research on it.
+
+## Day 018:April 2nd
+### Today's progress
+#### Came up with a mini project of the Blackjack game
+### Thoughts
+#### Every day is indeed a learning day!
+### Link to work
+#### https://github.com/MwauraGrace14/Day-18---miniproject.git
+
+## Day 019: April 3rd
+### Today's progress:
+#### I learnt about the namespace and how the local scope and global scope function.
+### Thoughts:
+#### If you create a variable within a function it is only available within that function.
+#### If you create a variable within any loop ie for ,while or if loop, it doesn't count as local screep.
