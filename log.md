@@ -152,4 +152,6 @@
 ## Day 020: April 4th
 ### Today's progress:
 #### I've learnt how to modify a global variable and how to implement python constants in a global scope.
+### Link to work
+#### https://github.com/MwauraGrace14/Day20-Scope.py.git
 
