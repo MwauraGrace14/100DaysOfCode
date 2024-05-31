@@ -155,3 +155,12 @@
 ### Link to work
 #### https://github.com/MwauraGrace14/Day20-Scope.py.git
 
+#It's been a while.But we are back.
+## Day 021: May 31st
+### Today's progress
+#### Decided to shift my focus on something new.
+#### I learnt the various threats,risks and vulnerabilities in Cybersecurity.
+#### Also looked at the various types of CTF challenges in Cybersecurity.
+### Thoughts.
+#### It's interesting.
+
