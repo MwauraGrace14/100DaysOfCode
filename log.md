@@ -155,7 +155,7 @@
 ### Link to work
 #### https://github.com/MwauraGrace14/Day20-Scope.py.git
 
-#It's been a while.But we are back.
+# It's been a while.But we are back.
 ## Day 021: May 31st
 ### Today's progress
 #### Decided to shift my focus on something new.
